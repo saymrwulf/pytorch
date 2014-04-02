@@ -11,3 +11,4 @@
 2014-02-01T06:23:00 - Refactor for clarity, might break a few tests though (pytorch)
 2014-02-01T02:35:00 - Implementing approach from a new paper read last night (pytorch)
 2014-02-01T23:18:00 - Refactor for clarity, might break a few tests though (pytorch)
+2014-04-03T01:39:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
