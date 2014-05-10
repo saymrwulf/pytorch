@@ -22,3 +22,4 @@
 2014-04-22T17:59:00 - Implementing approach from a new paper read last night (pytorch)
 2014-04-22T08:19:00 - Implementing approach from a new paper read last night (pytorch)
 2014-04-22T02:46:00 - Minor doc updates: linking to article on quantization (pytorch)
+2014-05-10T02:21:00 - Minor doc updates: linking to article on quantization (pytorch)
