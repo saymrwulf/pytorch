@@ -24,3 +24,4 @@
 2014-04-22T02:46:00 - Minor doc updates: linking to article on quantization (pytorch)
 2014-05-10T02:21:00 - Minor doc updates: linking to article on quantization (pytorch)
 2014-05-10T03:47:00 - Late-night bugfix on financial RL environment (pytorch)
+2014-05-10T03:54:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
