@@ -32,3 +32,4 @@
 2014-06-17T03:03:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
 2014-07-24T17:06:00 - Quick fix, referencing a known issue from the official repo (pytorch)
 2014-07-24T18:07:00 - Late-night bugfix on financial RL environment (pytorch)
+2014-07-24T17:45:00 - Minor doc updates: linking to article on quantization (pytorch)
