@@ -33,3 +33,4 @@
 2014-07-24T17:06:00 - Quick fix, referencing a known issue from the official repo (pytorch)
 2014-07-24T18:07:00 - Late-night bugfix on financial RL environment (pytorch)
 2014-07-24T17:45:00 - Minor doc updates: linking to article on quantization (pytorch)
+2014-08-14T08:37:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
