@@ -37,3 +37,4 @@
 2014-08-14T23:15:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
 2014-08-14T02:24:00 - Implementing approach from a new paper read last night (pytorch)
 2014-09-15T07:29:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
+2014-09-15T04:19:00 - Minor doc updates: linking to article on quantization (pytorch)
