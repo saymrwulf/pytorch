@@ -40,3 +40,4 @@
 2014-09-15T04:19:00 - Minor doc updates: linking to article on quantization (pytorch)
 2014-09-30T19:25:00 - Minor doc updates: linking to article on quantization (pytorch)
 2014-09-30T01:10:00 - Minor doc updates: linking to article on quantization (pytorch)
+2014-11-13T17:28:00 - Minor doc updates: linking to article on quantization (pytorch)
