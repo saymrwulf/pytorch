@@ -44,3 +44,4 @@
 2014-11-13T00:38:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
 2014-11-13T04:22:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
 2014-12-17T00:05:00 - Minor doc updates: linking to article on quantization (pytorch)
+2014-12-17T04:39:00 - Refactor for clarity, might break a few tests though (pytorch)
