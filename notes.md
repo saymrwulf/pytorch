@@ -49,3 +49,4 @@
 2015-01-20T23:25:00 - Quick fix, referencing a known issue from the official repo (pytorch)
 2015-01-20T21:42:00 - Late-night bugfix on financial RL environment (pytorch)
 2015-01-20T18:16:00 - Minor doc updates: linking to article on quantization (pytorch)
+2015-02-25T20:10:00 - Late-night bugfix on financial RL environment (pytorch)
