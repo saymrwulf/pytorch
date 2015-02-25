@@ -51,3 +51,4 @@
 2015-01-20T18:16:00 - Minor doc updates: linking to article on quantization (pytorch)
 2015-02-25T20:10:00 - Late-night bugfix on financial RL environment (pytorch)
 2015-02-25T18:43:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
+2015-02-25T21:29:00 - Minor doc updates: linking to article on quantization (pytorch)
