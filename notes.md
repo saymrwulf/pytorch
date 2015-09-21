@@ -58,3 +58,4 @@
 2015-03-29T23:51:00 - Implementing approach from a new paper read last night (pytorch)
 2015-09-18T02:22:00 - Late-night bugfix on financial RL environment (pytorch)
 2015-09-18T22:58:00 - Implementing approach from a new paper read last night (pytorch)
+2015-09-21T08:29:00 - Implementing approach from a new paper read last night (pytorch)
