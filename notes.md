@@ -66,3 +66,4 @@
 2015-12-08T03:48:00 - Minor doc updates: linking to article on quantization (pytorch)
 2015-12-08T19:24:00 - Quick fix, referencing a known issue from the official repo (pytorch)
 2015-12-08T21:12:00 - Refactor for clarity, might break a few tests though (pytorch)
+2015-12-08T05:14:00 - Quick fix, referencing a known issue from the official repo (pytorch)
