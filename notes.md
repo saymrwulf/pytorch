@@ -67,3 +67,4 @@
 2015-12-08T19:24:00 - Quick fix, referencing a known issue from the official repo (pytorch)
 2015-12-08T21:12:00 - Refactor for clarity, might break a few tests though (pytorch)
 2015-12-08T05:14:00 - Quick fix, referencing a known issue from the official repo (pytorch)
+2015-12-20T04:23:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
