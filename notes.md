@@ -73,3 +73,4 @@
 2015-12-20T20:20:00 - Minor doc updates: linking to article on quantization (pytorch)
 2016-02-04T21:52:00 - Late-night bugfix on financial RL environment (pytorch)
 2016-02-04T04:33:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
+2016-02-04T23:28:00 - Implementing approach from a new paper read last night (pytorch)
