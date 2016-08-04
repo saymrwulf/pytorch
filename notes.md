@@ -78,3 +78,4 @@
 2016-04-26T23:19:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
 2016-04-26T08:33:00 - Minor doc updates: linking to article on quantization (pytorch)
 2016-04-27T04:38:00 - Refactor for clarity, might break a few tests though (pytorch)
+2016-08-04T03:37:00 - Minor doc updates: linking to article on quantization (pytorch)
