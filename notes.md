@@ -81,3 +81,4 @@
 2016-08-04T03:37:00 - Minor doc updates: linking to article on quantization (pytorch)
 2016-08-04T23:42:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
 2016-08-04T23:32:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
+2016-08-04T02:06:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
