@@ -104,3 +104,4 @@
 2017-04-25T04:17:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
 2017-08-02T06:09:00 - Late-night bugfix on financial RL environment (pytorch)
 2017-08-02T22:07:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
+2017-08-05T05:46:00 - Implementing approach from a new paper read last night (pytorch)
