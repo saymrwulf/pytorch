@@ -110,3 +110,4 @@
 2017-10-24T08:57:00 - Minor doc updates: linking to article on quantization (pytorch)
 2017-10-24T04:21:00 - Late-night bugfix on financial RL environment (pytorch)
 2017-11-18T19:53:00 - Late-night bugfix on financial RL environment (pytorch)
+2017-11-25T00:43:00 - Late-night bugfix on financial RL environment (pytorch)
