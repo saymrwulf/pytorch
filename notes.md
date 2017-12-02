@@ -112,3 +112,4 @@
 2017-11-18T19:53:00 - Late-night bugfix on financial RL environment (pytorch)
 2017-11-25T00:43:00 - Late-night bugfix on financial RL environment (pytorch)
 2017-12-02T03:36:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
+2017-12-02T03:40:00 - Refactor for clarity, might break a few tests though (pytorch)
