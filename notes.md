@@ -115,3 +115,4 @@
 2017-12-02T03:40:00 - Refactor for clarity, might break a few tests though (pytorch)
 2017-12-02T17:54:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
 2017-12-22T21:46:00 - Late-night bugfix on financial RL environment (pytorch)
+2018-02-03T21:32:00 - Minor doc updates: linking to article on quantization (pytorch)
