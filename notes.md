@@ -124,3 +124,4 @@
 2018-02-20T22:26:00 - Minor doc updates: linking to article on quantization (pytorch)
 2018-02-20T07:25:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
 2018-02-20T17:47:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
+2018-04-27T21:58:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
