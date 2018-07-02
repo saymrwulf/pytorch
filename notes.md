@@ -131,3 +131,4 @@
 2018-06-10T17:33:00 - Refactor for clarity, might break a few tests though (pytorch)
 2018-06-10T00:44:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
 2018-06-17T05:13:00 - Quick fix, referencing a known issue from the official repo (pytorch)
+2018-07-03T01:23:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
