@@ -142,3 +142,4 @@
 2018-11-14T05:21:00 - Late-night bugfix on financial RL environment (pytorch)
 2018-11-14T03:18:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
 2018-11-14T23:58:00 - Refactor for clarity, might break a few tests though (pytorch)
+2018-12-16T02:43:00 - Minor doc updates: linking to article on quantization (pytorch)
