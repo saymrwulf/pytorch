@@ -144,3 +144,4 @@
 2018-11-14T23:58:00 - Refactor for clarity, might break a few tests though (pytorch)
 2018-12-16T02:43:00 - Minor doc updates: linking to article on quantization (pytorch)
 2018-12-16T20:49:00 - Implementing approach from a new paper read last night (pytorch)
+2018-12-16T18:48:00 - Minor doc updates: linking to article on quantization (pytorch)
