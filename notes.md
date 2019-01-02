@@ -148,3 +148,4 @@
 2018-12-16T00:27:00 - Minor doc updates: linking to article on quantization (pytorch)
 2019-01-02T17:12:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
 2019-01-02T01:30:00 - Quick fix, referencing a known issue from the official repo (pytorch)
+2019-01-02T23:01:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
