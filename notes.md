@@ -152,3 +152,4 @@
 2019-01-13T05:16:00 - Minor doc updates: linking to article on quantization (pytorch)
 2019-01-13T20:16:00 - Quick fix, referencing a known issue from the official repo (pytorch)
 2019-02-25T02:42:00 - Late-night bugfix on financial RL environment (pytorch)
+2019-03-03T00:07:00 - Implementing approach from a new paper read last night (pytorch)
