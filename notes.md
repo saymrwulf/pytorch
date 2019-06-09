@@ -156,3 +156,4 @@
 2019-03-20T18:03:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
 2019-03-20T07:23:00 - Quick fix, referencing a known issue from the official repo (pytorch)
 2019-06-09T00:07:00 - Refactor for clarity, might break a few tests though (pytorch)
+2019-06-09T20:00:00 - Late-night bugfix on financial RL environment (pytorch)
