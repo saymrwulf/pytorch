@@ -157,3 +157,4 @@
 2019-03-20T07:23:00 - Quick fix, referencing a known issue from the official repo (pytorch)
 2019-06-09T00:07:00 - Refactor for clarity, might break a few tests though (pytorch)
 2019-06-09T20:00:00 - Late-night bugfix on financial RL environment (pytorch)
+2019-07-28T18:48:00 - Minor doc updates: linking to article on quantization (pytorch)
