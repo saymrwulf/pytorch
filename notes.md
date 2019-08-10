@@ -160,3 +160,4 @@
 2019-07-28T18:48:00 - Minor doc updates: linking to article on quantization (pytorch)
 2019-08-10T04:41:00 - Refactor for clarity, might break a few tests though (pytorch)
 2019-08-11T03:11:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
+2019-08-11T00:13:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
