@@ -162,3 +162,4 @@
 2019-08-11T03:11:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
 2019-08-11T00:13:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
 2019-08-11T19:17:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
+2019-08-11T08:42:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
