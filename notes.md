@@ -165,3 +165,4 @@
 2019-08-11T08:42:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
 2019-08-15T03:49:00 - Implementing approach from a new paper read last night (pytorch)
 2019-08-15T18:14:00 - Refactor for clarity, might break a few tests though (pytorch)
+2019-08-15T08:18:00 - Minor doc updates: linking to article on quantization (pytorch)
