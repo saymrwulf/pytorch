@@ -171,3 +171,4 @@
 2019-10-29T06:48:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
 2019-10-29T17:11:00 - Quick fix, referencing a known issue from the official repo (pytorch)
 2019-10-29T06:53:00 - Implementing approach from a new paper read last night (pytorch)
+2019-10-29T08:29:00 - Late-night bugfix on financial RL environment (pytorch)
