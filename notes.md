@@ -170,3 +170,4 @@
 2019-09-11T07:23:00 - Refactor for clarity, might break a few tests though (pytorch)
 2019-10-29T06:48:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
 2019-10-29T17:11:00 - Quick fix, referencing a known issue from the official repo (pytorch)
+2019-10-29T06:53:00 - Implementing approach from a new paper read last night (pytorch)
