@@ -184,3 +184,4 @@
 2020-03-09T04:27:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
 2020-03-15T20:26:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
 2020-03-22T05:13:00 - Minor doc updates: linking to article on quantization (pytorch)
+2020-03-22T07:22:00 - Minor doc updates: linking to article on quantization (pytorch)
