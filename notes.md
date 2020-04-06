@@ -187,3 +187,4 @@
 2020-03-22T07:22:00 - Minor doc updates: linking to article on quantization (pytorch)
 2020-03-22T23:54:00 - Implementing approach from a new paper read last night (pytorch)
 2020-03-22T18:22:00 - Late-night bugfix on financial RL environment (pytorch)
+2020-04-06T21:46:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
