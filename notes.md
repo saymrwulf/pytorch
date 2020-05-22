@@ -196,3 +196,4 @@
 2020-05-03T04:55:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
 2020-05-03T05:52:00 - Implementing approach from a new paper read last night (pytorch)
 2020-05-03T04:18:00 - Refactor for clarity, might break a few tests though (pytorch)
+2020-05-22T19:13:00 - Late-night bugfix on financial RL environment (pytorch)
