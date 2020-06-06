@@ -201,3 +201,4 @@
 2020-06-04T00:56:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
 2020-06-04T06:29:00 - Minor doc updates: linking to article on quantization (pytorch)
 2020-06-04T21:17:00 - Late-night bugfix on financial RL environment (pytorch)
+2020-06-06T22:09:00 - Implementing approach from a new paper read last night (pytorch)
