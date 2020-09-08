@@ -208,3 +208,4 @@
 2020-07-05T19:20:00 - Late-night bugfix on financial RL environment (pytorch)
 2020-07-05T18:22:00 - Late-night bugfix on financial RL environment (pytorch)
 2020-09-07T08:06:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
+2020-09-08T19:15:00 - Minor doc updates: linking to article on quantization (pytorch)
