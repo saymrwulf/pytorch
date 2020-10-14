@@ -211,3 +211,4 @@
 2020-09-08T19:15:00 - Minor doc updates: linking to article on quantization (pytorch)
 2020-09-11T04:42:00 - Refactor for clarity, might break a few tests though (pytorch)
 2020-09-11T02:28:00 - Minor doc updates: linking to article on quantization (pytorch)
+2020-10-14T07:57:00 - Refactor for clarity, might break a few tests though (pytorch)
