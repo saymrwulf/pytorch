@@ -217,3 +217,4 @@
 2020-10-30T22:56:00 - Minor doc updates: linking to article on quantization (pytorch)
 2020-10-30T02:10:00 - Implementing approach from a new paper read last night (pytorch)
 2020-11-18T20:40:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
+2020-11-18T04:54:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
