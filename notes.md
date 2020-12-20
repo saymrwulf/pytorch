@@ -222,3 +222,4 @@
 2020-11-23T07:35:00 - Minor doc updates: linking to article on quantization (pytorch)
 2020-11-23T19:54:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
 2020-11-23T02:12:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
+2020-12-20T23:21:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
