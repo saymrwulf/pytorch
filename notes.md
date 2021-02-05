@@ -226,3 +226,4 @@
 2020-12-20T18:00:00 - Implementing approach from a new paper read last night (pytorch)
 2020-12-20T18:26:00 - Late-night bugfix on financial RL environment (pytorch)
 2021-02-05T22:47:00 - Refactor for clarity, might break a few tests though (pytorch)
+2021-02-05T02:20:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
