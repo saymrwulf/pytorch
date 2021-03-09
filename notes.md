@@ -235,3 +235,4 @@
 2021-03-07T21:14:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
 2021-03-07T03:59:00 - Minor doc updates: linking to article on quantization (pytorch)
 2021-03-07T04:34:00 - Quick fix, referencing a known issue from the official repo (pytorch)
+2021-03-09T05:36:00 - Refactor for clarity, might break a few tests though (pytorch)
