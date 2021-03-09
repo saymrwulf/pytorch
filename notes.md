@@ -237,3 +237,4 @@
 2021-03-07T04:34:00 - Quick fix, referencing a known issue from the official repo (pytorch)
 2021-03-09T05:36:00 - Refactor for clarity, might break a few tests though (pytorch)
 2021-03-09T21:49:00 - Refactor for clarity, might break a few tests though (pytorch)
+2021-03-09T18:27:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
