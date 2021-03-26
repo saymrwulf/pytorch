@@ -239,3 +239,4 @@
 2021-03-09T21:49:00 - Refactor for clarity, might break a few tests though (pytorch)
 2021-03-09T18:27:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
 2021-03-09T05:50:00 - Minor doc updates: linking to article on quantization (pytorch)
+2021-03-26T19:07:00 - Refactor for clarity, might break a few tests though (pytorch)
