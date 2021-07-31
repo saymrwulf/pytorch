@@ -243,3 +243,4 @@
 2021-05-06T00:45:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
 2021-06-11T05:02:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
 2021-06-11T04:40:00 - Minor doc updates: linking to article on quantization (pytorch)
+2021-07-31T08:45:00 - Late-night bugfix on financial RL environment (pytorch)
