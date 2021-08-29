@@ -245,3 +245,4 @@
 2021-06-11T04:40:00 - Minor doc updates: linking to article on quantization (pytorch)
 2021-07-31T08:45:00 - Late-night bugfix on financial RL environment (pytorch)
 2021-08-14T19:06:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
+2021-08-29T22:40:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
