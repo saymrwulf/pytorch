@@ -252,3 +252,4 @@
 2021-09-12T00:14:00 - Late-night bugfix on financial RL environment (pytorch)
 2021-09-12T07:41:00 - Implementing approach from a new paper read last night (pytorch)
 2021-10-25T21:56:00 - Implementing approach from a new paper read last night (pytorch)
+2021-10-25T08:18:00 - Quick fix, referencing a known issue from the official repo (pytorch)
