@@ -251,3 +251,4 @@
 2021-09-12T20:55:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
 2021-09-12T00:14:00 - Late-night bugfix on financial RL environment (pytorch)
 2021-09-12T07:41:00 - Implementing approach from a new paper read last night (pytorch)
+2021-10-25T21:56:00 - Implementing approach from a new paper read last night (pytorch)
