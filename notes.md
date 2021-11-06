@@ -255,3 +255,4 @@
 2021-10-25T08:18:00 - Quick fix, referencing a known issue from the official repo (pytorch)
 2021-10-25T19:29:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
 2021-10-29T19:38:00 - Minor doc updates: linking to article on quantization (pytorch)
+2021-11-06T02:44:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
