@@ -260,3 +260,4 @@
 2021-11-08T18:07:00 - Late-night bugfix on financial RL environment (pytorch)
 2021-11-08T00:23:00 - Quick fix, referencing a known issue from the official repo (pytorch)
 2021-11-08T23:05:00 - Implementing approach from a new paper read last night (pytorch)
+2021-11-15T08:46:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
