@@ -264,3 +264,4 @@
 2021-11-15T02:41:00 - Quick fix, referencing a known issue from the official repo (pytorch)
 2021-11-15T08:22:00 - Refactor for clarity, might break a few tests though (pytorch)
 2021-11-18T18:09:00 - Implementing approach from a new paper read last night (pytorch)
+2021-11-18T19:19:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
