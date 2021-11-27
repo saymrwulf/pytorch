@@ -267,3 +267,4 @@
 2021-11-18T19:19:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
 2021-11-27T07:25:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
 2021-11-27T01:18:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
+2021-11-27T06:04:00 - Minor doc updates: linking to article on quantization (pytorch)
