@@ -266,3 +266,4 @@
 2021-11-18T18:09:00 - Implementing approach from a new paper read last night (pytorch)
 2021-11-18T19:19:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
 2021-11-27T07:25:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
+2021-11-27T01:18:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
