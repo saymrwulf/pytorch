@@ -277,3 +277,4 @@
 2022-02-03T18:37:00 - Refactor for clarity, might break a few tests though (pytorch)
 2022-03-06T20:41:00 - Implementing approach from a new paper read last night (pytorch)
 2022-03-06T06:47:00 - Refactor for clarity, might break a few tests though (pytorch)
+2022-03-06T20:19:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
