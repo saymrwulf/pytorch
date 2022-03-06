@@ -275,3 +275,4 @@
 2022-02-03T17:51:00 - Quick fix, referencing a known issue from the official repo (pytorch)
 2022-02-03T21:15:00 - Refactor for clarity, might break a few tests though (pytorch)
 2022-02-03T18:37:00 - Refactor for clarity, might break a few tests though (pytorch)
+2022-03-06T20:41:00 - Implementing approach from a new paper read last night (pytorch)
