@@ -278,3 +278,4 @@
 2022-03-06T20:41:00 - Implementing approach from a new paper read last night (pytorch)
 2022-03-06T06:47:00 - Refactor for clarity, might break a few tests though (pytorch)
 2022-03-06T20:19:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
+2022-03-09T19:05:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
