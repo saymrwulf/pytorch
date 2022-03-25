@@ -284,3 +284,4 @@
 2022-03-09T05:43:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
 2022-03-25T17:20:00 - Late-night bugfix on financial RL environment (pytorch)
 2022-03-25T00:45:00 - Refactor for clarity, might break a few tests though (pytorch)
+2022-03-25T21:07:00 - Late-night bugfix on financial RL environment (pytorch)
