@@ -285,3 +285,4 @@
 2022-03-25T17:20:00 - Late-night bugfix on financial RL environment (pytorch)
 2022-03-25T00:45:00 - Refactor for clarity, might break a few tests though (pytorch)
 2022-03-25T21:07:00 - Late-night bugfix on financial RL environment (pytorch)
+2022-04-05T00:37:00 - Minor doc updates: linking to article on quantization (pytorch)
