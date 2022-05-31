@@ -294,3 +294,4 @@
 2022-04-09T05:07:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
 2022-05-15T02:00:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
 2022-05-15T08:07:00 - Late-night bugfix on financial RL environment (pytorch)
+2022-05-31T22:57:00 - Implementing approach from a new paper read last night (pytorch)
