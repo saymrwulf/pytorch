@@ -302,3 +302,4 @@
 2022-06-05T17:44:00 - Implementing approach from a new paper read last night (pytorch)
 2022-06-06T08:27:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
 2022-06-06T19:43:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
+2022-06-06T23:50:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
