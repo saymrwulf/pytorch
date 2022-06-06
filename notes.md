@@ -300,3 +300,4 @@
 2022-06-05T06:15:00 - Implementing approach from a new paper read last night (pytorch)
 2022-06-05T07:41:00 - Refactor for clarity, might break a few tests though (pytorch)
 2022-06-05T17:44:00 - Implementing approach from a new paper read last night (pytorch)
+2022-06-06T08:27:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
