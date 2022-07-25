@@ -306,3 +306,4 @@
 2022-06-21T22:02:00 - Quick fix, referencing a known issue from the official repo (pytorch)
 2022-06-21T02:04:00 - Quick fix, referencing a known issue from the official repo (pytorch)
 2022-06-21T03:42:00 - Quick fix, referencing a known issue from the official repo (pytorch)
+2022-07-25T22:08:00 - Refactor for clarity, might break a few tests though (pytorch)
