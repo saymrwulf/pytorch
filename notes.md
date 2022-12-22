@@ -323,3 +323,4 @@
 2022-12-13T07:29:00 - Implementing approach from a new paper read last night (pytorch)
 2022-12-22T21:48:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
 2022-12-22T01:19:00 - Minor doc updates: linking to article on quantization (pytorch)
+2022-12-22T18:38:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
