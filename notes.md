@@ -328,3 +328,4 @@
 2023-01-18T07:10:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
 2023-02-15T20:39:00 - Late-night bugfix on financial RL environment (pytorch)
 2023-03-21T21:55:00 - Refactor for clarity, might break a few tests though (pytorch)
+2023-03-21T01:10:00 - Minor doc updates: linking to article on quantization (pytorch)
