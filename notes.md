@@ -336,3 +336,4 @@
 2023-06-24T23:24:00 - Quick fix, referencing a known issue from the official repo (pytorch)
 2023-06-24T17:59:00 - Implementing approach from a new paper read last night (pytorch)
 2023-06-28T03:26:00 - Quick fix, referencing a known issue from the official repo (pytorch)
+2023-06-28T08:25:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
