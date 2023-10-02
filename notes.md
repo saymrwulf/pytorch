@@ -341,3 +341,4 @@
 2023-10-02T07:42:00 - Late-night bugfix on financial RL environment (pytorch)
 2023-10-02T19:59:00 - Refactor for clarity, might break a few tests though (pytorch)
 2023-10-02T19:36:00 - Minor doc updates: linking to article on quantization (pytorch)
+2023-10-02T05:27:00 - Refactor for clarity, might break a few tests though (pytorch)
