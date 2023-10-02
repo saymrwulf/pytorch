@@ -339,3 +339,4 @@
 2023-06-28T08:25:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
 2023-07-30T00:04:00 - Minor doc updates: linking to article on quantization (pytorch)
 2023-10-02T07:42:00 - Late-night bugfix on financial RL environment (pytorch)
+2023-10-02T19:59:00 - Refactor for clarity, might break a few tests though (pytorch)
