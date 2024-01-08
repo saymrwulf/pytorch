@@ -343,3 +343,4 @@
 2023-10-02T19:36:00 - Minor doc updates: linking to article on quantization (pytorch)
 2023-10-02T05:27:00 - Refactor for clarity, might break a few tests though (pytorch)
 2024-01-08T22:34:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
+2024-01-08T06:44:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
