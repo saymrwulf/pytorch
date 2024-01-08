@@ -344,3 +344,4 @@
 2023-10-02T05:27:00 - Refactor for clarity, might break a few tests though (pytorch)
 2024-01-08T22:34:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
 2024-01-08T06:44:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
+2024-01-08T08:46:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
