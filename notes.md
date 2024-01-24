@@ -351,3 +351,4 @@
 2024-02-01T17:49:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
 2024-03-04T05:22:00 - Implementing approach from a new paper read last night (pytorch)
 2024-03-04T21:52:00 - Refactor for clarity, might break a few tests though (pytorch)
+2024-01-24T03:33:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
