@@ -348,3 +348,4 @@
 2024-02-01T07:18:00 - Late-night bugfix on financial RL environment (pytorch)
 2024-02-01T23:24:00 - Late-night bugfix on financial RL environment (pytorch)
 2024-02-01T19:39:00 - Late-night bugfix on financial RL environment (pytorch)
+2024-02-01T17:49:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
