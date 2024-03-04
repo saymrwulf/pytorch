@@ -356,3 +356,4 @@
 2024-01-24T03:17:00 - Late-night bugfix on financial RL environment (pytorch)
 2024-03-04T20:30:00 - Quick fix, referencing a known issue from the official repo (pytorch)
 2024-03-04T18:48:00 - Minor doc updates: linking to article on quantization (pytorch)
+2024-03-04T22:31:00 - Implementing approach from a new paper read last night (pytorch)
