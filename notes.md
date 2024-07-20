@@ -367,3 +367,4 @@
 2024-07-20T07:01:00 - Quick fix, referencing a known issue from the official repo (pytorch)
 2024-07-20T22:50:00 - Quick fix, referencing a known issue from the official repo (pytorch)
 2024-07-20T04:05:00 - Implementing approach from a new paper read last night (pytorch)
+2024-07-20T17:10:00 - Refactor for clarity, might break a few tests though (pytorch)
