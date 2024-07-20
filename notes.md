@@ -364,3 +364,4 @@
 2024-06-05T07:10:00 - Quick fix, referencing a known issue from the official repo (pytorch)
 2024-06-07T07:24:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
 2024-07-10T03:09:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
+2024-07-20T07:01:00 - Quick fix, referencing a known issue from the official repo (pytorch)
