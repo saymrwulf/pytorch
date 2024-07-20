@@ -369,3 +369,4 @@
 2024-07-20T04:05:00 - Implementing approach from a new paper read last night (pytorch)
 2024-07-20T17:10:00 - Refactor for clarity, might break a few tests though (pytorch)
 2024-07-21T23:29:00 - Implementing approach from a new paper read last night (pytorch)
+2024-07-21T00:51:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
