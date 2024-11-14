@@ -377,3 +377,4 @@
 2024-09-29T01:49:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pytorch)
 2024-10-27T22:01:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
 2024-10-27T18:58:00 - Implementing approach from a new paper read last night (pytorch)
+2024-11-14T20:01:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pytorch)
