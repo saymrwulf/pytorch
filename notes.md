@@ -384,3 +384,4 @@
 2024-11-23T23:51:00 - Minor doc updates: linking to article on quantization (pytorch)
 2024-12-23T18:44:00 - Minor doc updates: linking to article on quantization (pytorch)
 2024-12-23T08:16:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pytorch)
+2024-12-23T03:50:00 - Implementing approach from a new paper read last night (pytorch)
